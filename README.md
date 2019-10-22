@@ -1,4 +1,4 @@
-# GOP-ristrutturazione-appartamento
+# GPO-ristrutturazione-appartamento
 Esercizio per capire i concetti base di Project Management
 
 La prima cosa da fare e' usare la WiKi e compilare il Project Charter
